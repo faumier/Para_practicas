@@ -1,8 +1,8 @@
 #Ejercicio para abrir un archivo en python
 
 file = open("sequence.txt", "r")
-file.seek(1)
-objeto = file.readline(4)
+file.seek(0)
+objeto = file.readline(9)
 file.close()
 z = list(objeto)
 print(z)
