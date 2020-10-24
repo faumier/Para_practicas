@@ -24,4 +24,4 @@ for nuc in z:
 print(Cadena_complementaria)
 print("----------------------------------------------------")
 print(z)
-
+# Esto es solo para probar el git :)
