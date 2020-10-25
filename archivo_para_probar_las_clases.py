@@ -1,0 +1,1 @@
+#todo en la programacion con clases son abstraciones por lo que tengo que aprender a hacerlo 
